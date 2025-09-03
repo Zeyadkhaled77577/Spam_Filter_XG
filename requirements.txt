@@ -1,0 +1,19 @@
+# Core
+numpy
+pandas
+
+# Visualization
+matplotlib
+seaborn
+
+# Scikit-learn (ML + preprocessing + metrics)
+scikit-learn
+
+# Models
+xgboost
+
+# GUI
+streamlit
+
+# Saving/Loading models
+joblib
