@@ -34,7 +34,7 @@ spam-filtering/
 ├── README.md # Documentation
 ├── data/ # (optional) sample dataset
 └── models/ # trained models (if saved)
-
+---
 ## ⚡ Usage
 1. Clone the repository:
    ```bash
