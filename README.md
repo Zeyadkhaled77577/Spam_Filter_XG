@@ -28,14 +28,12 @@ The model uses **TF-IDF features** and achieves strong performance on spam detec
 ---
 
 ## 📂 Project Structure
-📁 spam-filtering
-│── 📄 spam-filtering.ipynb # Jupyter Notebook (main workflow)
-│── 📄 requirements.txt # Dependencies
-│── 📄 README.md # Documentation
-│── 📁 data/ # (optional) sample dataset
-│── 📁 models/ # trained models (if saved)
-
----
+spam-filtering/
+├── spam-filtering.ipynb # Jupyter Notebook (main workflow)
+├── requirements.txt # Dependencies
+├── README.md # Documentation
+├── data/ # (optional) sample dataset
+└── models/ # trained models (if saved)
 
 ## ⚡ Usage
 1. Clone the repository:
@@ -45,13 +43,13 @@ The model uses **TF-IDF features** and achieves strong performance on spam detec
    pip install -r requirements.txt
    jupyter notebook spam-filtering.ipynb
    ```
-##📊 Results
+## 📊 Results
 
 XGBoost outperformed baseline models with high accuracy and strong recall in detecting spam.
 
 Combining multiple datasets significantly improved generalization.
 
-##🔮 Future Work
+## 🔮 Future Work
 
 Deploy as a Streamlit web app for real-time spam detection.
 
