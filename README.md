@@ -40,7 +40,7 @@ spam-filtering/
 ## ⚡ Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/spam-filtering.git
+   git clone https://github.com/Zeyadkhaled77577/spam-filtering.git
    cd spam-filtering
    pip install -r requirements.txt
    jupyter notebook spam-filtering.ipynb
