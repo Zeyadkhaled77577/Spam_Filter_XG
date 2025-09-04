@@ -34,8 +34,8 @@ spam-filtering/
    ├──spam-filtering.ipynb    # Jupyter Notebook (main workflow)
    ├── requirements.txt       # Dependencies
    ├── README.md              # Documentation
-   ├── data/                  # (optional) sample dataset
-   └── models/                # trained models (if saved)
+   ├── data/                  #  sample dataset
+   └── models/                # trained models 
 ```
 ## ⚡ Usage
 1. Clone the repository:
@@ -59,8 +59,6 @@ XGBoost outperformed baseline models with high accuracy and strong recall in det
 Combining multiple datasets significantly improved generalization.
 
 ## 🔮 Future Work
-
-Deploy as a Streamlit web app for real-time spam detection.
 
 Extend feature extraction with word embeddings (Word2Vec, DISTILBERT).
 
