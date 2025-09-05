@@ -52,6 +52,7 @@ You can run the GUI locally with:
 ```bash
 streamlit run app.py
 ```
+Or globally throught : https://spamfilterxg-f4u3awm4haahaisjkygh83.streamlit.app/
 ## 📊 Results
 
 XGBoost outperformed baseline models with high accuracy and strong recall in detecting spam.
