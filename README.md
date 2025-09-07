@@ -59,8 +59,15 @@ XGBoost outperformed baseline models with high accuracy and strong recall in det
 
 Combining multiple datasets significantly improved generalization.
 
+
 ## 🔮 Future Work
 
 Extend feature extraction with word embeddings (Word2Vec, DISTILBERT).
 
 Use deep learning models (e.g., LSTMs, Transformers).
+
+## 👥 Team / Contributors
+Zeyad Khaled | [My LinkedIn](www.linkedin.com/in/zeyad-k-ahmed-ml)
+Abdalla Ehab | [LinkedIn](https://www.linkedin.com/in/abdalla-ehab/)
+Omar Abdekbaki | [LinkedIn](https://www.linkedin.com/in/omar-abdelbaki-/)
+Mohamed Khaled |
